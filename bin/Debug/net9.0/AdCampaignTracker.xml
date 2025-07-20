@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdCampaignTracker</name>
+    </assembly>
+    <members>
+        <member name="T:AdCampaignTracker.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AdCampaignTracker.Migrations.FinalModelSync">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.FinalModelSync.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.FinalModelSync.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.FinalModelSync.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AdCampaignTracker.Migrations.RemoveDestinationUrl">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.RemoveDestinationUrl.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.RemoveDestinationUrl.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.RemoveDestinationUrl.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AdCampaignTracker.Migrations.AddUserRolesAndCampaignLink">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.AddUserRolesAndCampaignLink.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.AddUserRolesAndCampaignLink.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.AddUserRolesAndCampaignLink.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AdCampaignTracker.Migrations.FinalAdModel">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.FinalAdModel.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.FinalAdModel.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AdCampaignTracker.Migrations.FinalAdModel.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

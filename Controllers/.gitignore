@@ -1,0 +1,10 @@
+# C#
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.db
+
+# IDE files
+.vs/
+.vscode/
