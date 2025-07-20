@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("7e581116-1531-4853-98d8-d425160c3ca1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdCampaignTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd10750de08c1f7f491f5e0236de9c637adfe943")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdCampaignTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdCampaignTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
