@@ -1,3 +1,4 @@
+@'
 # C#
 [Bb]in/
 [Oo]bj/
@@ -8,3 +9,4 @@
 # IDE files
 .vs/
 .vscode/
+'@ | Set-Content .gitignore
